@@ -20,7 +20,7 @@
 
 		  <div class="row">
 			  <div class="col-12 col-lg-6 col-xl-6">
-				  <div class="box box-inverse bg-img" style="background-image: url(src/assets/images/gallery/full/1.jpg);" data-overlay="2">
+				  <div class="box box-inverse bg-img" style="background-image: url(src/assets/avatar/1.jpg);" data-overlay="2">
 					  <div class="flexbox px-20 pt-20">
 						<label class="toggler toggler-danger text-white">
 						  <input type="checkbox">
@@ -31,7 +31,7 @@
 
 					  <div class="box-body text-center pb-50">
 						<a href="#">
-						  <img class="avatar avatar-xxl avatar-bordered" src="@/assets/images/avatar/5.jpg" alt="">
+						  <img class="avatar avatar-xxl avatar-bordered" src="@/assets/avatar/5.jpg" alt="">
 						</a>
 						<h4 class="mt-2 mb-0" ><a class="hover-primary text-white"  href="#">{{ fullname }}</a></h4>
 						<span><i class="fa fa-map-marker w-20"></i> an {{ role }}</span>

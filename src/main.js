@@ -13,9 +13,7 @@ pinia.use(({store}) => {
 })
 
 //CSS
-import "@/assets/back/css/vendors_css.css"
-import "@/assets/back/css/style.css "
-import "@/assets/back/css/skin_color.css"
+
 
 
 // import "/src/assets/back/js/vendors.min.js"
