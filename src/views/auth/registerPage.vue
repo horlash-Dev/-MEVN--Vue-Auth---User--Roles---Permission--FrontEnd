@@ -1,7 +1,5 @@
 <template lang="">
-    <div>
-        	
-	<div class="container h-p100">
+
 		<div class="row align-items-center justify-content-md-center h-p100">	
 			
 			<div class="col-12">
@@ -19,8 +17,7 @@
 				</div>
 			</div>
 		</div>
-	</div>
-    </div>
+
 </template>
 <script setup>
     import registerForm from '@/components/forms/registerForm.vue'

@@ -9,7 +9,7 @@ const router = createRouter({
   routes: [
     {
       path: '/',
-      redirect: {path: "login"}
+      redirect: {name: "login"},
     },
     {
       path: '/:user/account',
@@ -33,7 +33,7 @@ const router = createRouter({
       path: '/about',
       name: 'about',
       component: About,
-       meta: {  requiresAuth: false }
+       meta: {  requiresAuth: true }
     },
     {
       path: '/all-users',

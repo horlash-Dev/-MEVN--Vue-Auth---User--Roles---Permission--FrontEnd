@@ -1,6 +1,5 @@
 
 <template>
-<div>
 <Header />
 <Sidebar />
    <div class="content-wrapper">
@@ -9,7 +8,6 @@
 	  </div>
   </div>
 <Footer />
-</div>
 </template>
 <script setup>
 //import { computed, ref, watch, markRaw } from "vue";

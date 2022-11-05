@@ -27,7 +27,7 @@
         </li> 
 
         		<li>
-          <router-link to="/about">
+          <router-link :to="{path: '/about'}">
             <i data-feather="file"></i>
 			<span>about</span>
           </router-link>
