@@ -1,4 +1,5 @@
 <template lang="">
+  <div>
                     <div class="col-12">
                         <!-- Basic Forms -->
                           <div class="box">
@@ -28,6 +29,7 @@
                           
                           <!-- /.box -->			
                     </div>
+                  </div>
 </template>
 <script setup>
     import { ref } from 'vue'

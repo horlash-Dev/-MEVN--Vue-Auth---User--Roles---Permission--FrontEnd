@@ -21,5 +21,7 @@
 </script>
 
 <template>
+<div>
   <component :is="layout"> <router-view /> </component>
+  </div>
 </template>
